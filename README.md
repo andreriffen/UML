@@ -1,4 +1,5 @@
 #### Exercícios de aulas, diagramas, lógica de programação e consulta de banco de dados
+
 ![PREVIEW](https://raw.githubusercontent.com/andreriffen/IFSC_Stuff/main/diagramaClasseJPG.jpg)
 <br>
 <br>
