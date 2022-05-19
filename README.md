@@ -1,4 +1,5 @@
-#### Exercícios de aulas, diagramas, lógica de programação e consulta de banco de dados
+# Analise de sistemas
+## Aqui alguns dos exercícios que realizei em aula para documentação, levantamento de requisitos, diagrama de classes, casos de uso, etc.
 
 ![PREVIEW](https://raw.githubusercontent.com/andreriffen/IFSC_Stuff/main/diagramaClasseJPG.jpg)
 <br>
